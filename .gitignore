@@ -1,0 +1,19 @@
+# Datos de entrada y salida (contienen informacion de ventas real)
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+Inputs/
+Output/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Sistema
+.DS_Store
+Thumbs.db
+~$*
